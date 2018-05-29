@@ -1,3 +1,9 @@
+# WHY THIS REPOSITORY IS FORKED?
+Some critical inssues in original repo are not handled. So this is forked for fixing it.
+* [https://github.com/socketio/socket.io-client-cpp/issues/192](https://github.com/socketio/socket.io-client-cpp/issues/192)
+* [https://github.com/socketio/socket.io-client-cpp/pull/200](https://github.com/socketio/socket.io-client-cpp/pull/200)
+
+
 # Socket.IO C++ Client
 [![Build Status](https://travis-ci.org/socketio/socket.io-client-cpp.svg)](https://travis-ci.org/socketio/socket.io-client-cpp)
 
